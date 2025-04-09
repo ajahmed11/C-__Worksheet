@@ -1,0 +1,12 @@
+----------------------------
+Car Details:
+Registration Number: 0012
+Color: red
+Number of Seats: 6
+----------------------------
+----------------------------
+Bike Details:
+Registration Number: 8976
+Color: green
+Engine Capacity: 250 cc
+----------------------------
